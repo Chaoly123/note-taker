@@ -19,7 +19,7 @@ You will have to install node.js, open terminal, run "npm install", and then run
 
 The application is called by typing "node index.js" in the terminal, which you will have to run localhost:3000 on your internet exploxer or chrome.
 
-Link to the [heroku page] .
+Link to the [heroku page] (https://quiet-plains-44423.herokuapp.com/) .
 
 ## Contributing 
 
